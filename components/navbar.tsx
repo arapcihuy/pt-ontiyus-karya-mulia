@@ -85,13 +85,9 @@ export function Navbar() {
             onClick={() => setIsOpen(false)}
           />
           <div
-            className={`absolute left-0 right-0 top-16 mx-4 rounded-xl border border-border bg-card/95 shadow-2xl origin-top will-change-transform will-change-opacity ${
+            className={`absolute left-0 right-0 top-16 mx-4 rounded-xl border border-border bg-card/95 shadow-2xl origin-top will-change-transform will-change-opacity transition-all duration-500 ease-out ${
               isOpen ? "opacity-100 translate-y-0 scale-100" : "opacity-0 -translate-y-3 scale-95"
             }`}
-            style={{
-              transition:
-                "opacity 480ms cubic-bezier(0.22, 1, 0.36, 1), transform 480ms cubic-bezier(0.22, 1, 0.36, 1)",
-            }}
           >
             <div className="py-4">
               <nav className="flex flex-col gap-3">
@@ -99,13 +95,9 @@ export function Navbar() {
                   <Link
                     key={item.href}
                     href={item.href}
-                    className="text-sm font-medium text-foreground/90 hover:text-primary transition-colors px-4"
-                    style={{
-                      transition: "opacity 350ms cubic-bezier(0.22, 1, 0.36, 1), transform 350ms cubic-bezier(0.22, 1, 0.36, 1)",
-                      transitionDelay: `${idx * 40}ms`,
-                      opacity: isOpen ? 1 : 0,
-                      transform: isOpen ? "translateY(0)" : "translateY(8px)",
-                    }}
+                    className={`text-sm font-medium text-foreground/90 hover:text-primary transition-all duration-300 ease-out px-4 ${
+                      isOpen ? "opacity-100 translate-y-0" : "opacity-0 translate-y-2"
+                    }`}
                     onClick={() => setIsOpen(false)}
                   >
                     {item.label}
@@ -114,13 +106,9 @@ export function Navbar() {
                 <div className="px-4">
                   <Button
                     asChild
-                    className="bg-accent hover:bg-accent/90 text-accent-foreground w-full mt-2"
-                    style={{
-                      transition: "opacity 350ms cubic-bezier(0.22, 1, 0.36, 1), transform 350ms cubic-bezier(0.22, 1, 0.36, 1)",
-                      transitionDelay: `${navItems.length * 40}ms`,
-                      opacity: isOpen ? 1 : 0,
-                      transform: isOpen ? "translateY(0)" : "translateY(8px)",
-                    }}
+                    className={`bg-accent hover:bg-accent/90 text-accent-foreground w-full mt-2 transition-all duration-300 ease-out ${
+                      isOpen ? "opacity-100 translate-y-0" : "opacity-0 translate-y-2"
+                    }`}
                     onClick={() => setIsOpen(false)}
                   >
                     <Link href="/kontak">
