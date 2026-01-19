@@ -1,0 +1,531 @@
+{
+  "nav": {
+    "home": "Beranda",
+    "products": "Produk",
+    "solutions": "Solusi",
+    "about": "Tentang Kami",
+    "books": "Publikasi & Buku",
+    "news": "Berita",
+    "contact": "Hubungi Kami"
+  },
+  "hero": {
+    "title": "Produsen Peralatan Medis Terpercaya di Indonesia",
+    "description": "PT. Ontiyus Karya Mulia memproduksi dan memasok perangkat medis berkualitas tinggi untuk rumah sakit, klinik, dan laboratorium di seluruh Indonesia.",
+    "viewProducts": "Lihat Produk",
+    "contactUs": "Hubungi Kami",
+    "tagline": "Mendukung layanan kesehatan yang aman dan berkualitas"
+  },
+  "products": {
+    "title": "Produk Kami",
+    "subtitle": "Peralatan medis berkualitas untuk kebutuhan Anda",
+    "implants": {
+      "title": "Implan Tulang Ortopedi",
+      "description": "Implan tulang berkualitas tinggi untuk memperbaiki patah tulang dan kerusakan tulang akibat penyakit. Dikembangkan berdasarkan riset dari Fakultas Teknik dan Kedokteran UGM.",
+      "details": "Lihat detail"
+    },
+    "prosthetics": {
+      "title": "Alat Prostetik & Ortotik",
+      "description": "Solusi prostetik dan ortotik berkualitas tinggi untuk membantu mobilitas dan kualitas hidup pasien. Dikembangkan dengan teknologi terkini dan material yang nyaman.",
+      "details": "Lihat detail"
+    }
+  },
+  "about": {
+    "title": "Tentang PT. Ontiyus Karya Mulia",
+    "subtitle": "Produsen Peralatan Medis Terpercaya",
+    "description": "PT. Ontiyus Karya Mulia adalah perusahaan manufaktur dan distribusi peralatan medis terkemuka di Indonesia dengan pengalaman lebih dari 15 tahun di industri medis.",
+    "mission": "Kami berkomitmen untuk menyediakan peralatan medis berkualitas tinggi yang memenuhi standar internasional dan regulasi kesehatan Indonesia.",
+    "commitment": "Dengan tim ahli yang berpengalaman dan jaringan distribusi yang luas, kami siap mendukung fasilitas kesehatan di seluruh Indonesia dalam memberikan layanan terbaik bagi masyarakat.",
+    "why": "Mengapa Memilih Kami?",
+    "highlights": [
+      "Peralatan medis bersertifikat",
+      "Dipercaya oleh rumah sakit di seluruh Indonesia",
+      "Dukungan teknis profesional 24/7",
+      "Garansi dan layanan purna jual terbaik",
+      "Kesesuaian dengan regulasi kesehatan"
+    ]
+  },
+  "solutions": {
+    "title": "Solusi untuk Setiap Kebutuhan",
+    "subtitle": "Produk kami digunakan di berbagai lingkungan pelayanan kesehatan",
+    "hospital": "Rumah Sakit",
+    "hospitalDesc": "Kami menyediakan solusi lengkap untuk rumah sakit, mulai dari peralatan ruang operasi, ICU, hingga furniture pasien. Produk kami dirancang untuk mendukung efisiensi operasional dan kenyamanan pasien.",
+    "clinic": "Klinik",
+    "clinicDesc": "Untuk klinik dan praktik medis, kami menawarkan peralatan diagnostik, alat pemeriksaan, dan furniture medis yang ringkas namun berkualitas tinggi untuk ruang terbatas.",
+    "laboratory": "Laboratorium",
+    "labDesc": "Laboratorium klinis dan penelitian dapat mengandalkan instrumen presisi kami untuk analisis sampel, pengujian, dan berbagai prosedur laboratorium dengan hasil yang akurat dan konsisten."
+  },
+  "news": {
+    "title": "Berita & Update",
+    "subtitle": "Informasi terkini dari PT. Ontiyus Karya Mulia",
+    "viewAll": "Lihat Semua Berita",
+    "readMore": "Baca selengkapnya"
+  },
+  "books": {
+    "title": "Publikasi & Buku",
+    "subtitle": "Koleksi buku penelitian teknik dan medis dari para ahli",
+    "viewAll": "Lihat Semua Publikasi",
+    "author": "Oleh:",
+    "isbn": "ISBN:",
+    "price": "Harga:",
+    "publisher": "Penerbit:",
+    "pages": "Halaman:",
+    "year": "Tahun:",
+    "availability": "Tersedia",
+    "items": [
+      {
+        "id": "1",
+        "title": "Bahan Teknik untuk Rekayasawan (Logam Ferro)",
+        "description": "Buku komprehensif tentang material logam ferro untuk aplikasi engineering. Mencakup struktur, sifat mekanik, dan aplikasi praktis dalam industri manufaktur dan kesehatan."
+      },
+      {
+        "id": "2",
+        "title": "Bahan Teknik untuk Rekayasawan (Logam Bukan Ferro)",
+        "description": "Panduan lengkap tentang material logam bukan ferro termasuk aluminium, tembaga, dan paduannya. Ideal untuk mahasiswa teknik dan profesional industri."
+      },
+      {
+        "id": "3",
+        "title": "Bahan Teknik untuk Rekayasawan (Polimer, Keramik, Kayu dan Komposit)",
+        "description": "Eksplorasi mendalam tentang material non-logam termasuk polimer, keramik, kayu dan material komposit modern. Aplikasi dalam industri medis dan penelitian."
+      }
+    ]
+  },
+  "gallery": {
+    "title": "Galeri & Portfolio",
+    "subtitle": "Lihat fasilitas produksi, produk, dan kolaborasi kami"
+  },
+  "contact": {
+    "title": "Hubungi Kami",
+    "subtitle": "Hubungi Kami",
+    "description": "Kami siap membantu Anda. Silakan hubungi kami untuk pertanyaan tentang produk, kemitraan, dukungan teknis, atau informasi lainnya tentang layanan PT. Ontiyus Karya Mulia.",
+    "sendMessage": "Kirim Pesan",
+    "contactInfo": "Informasi Kontak",
+    "address": "Alamat",
+    "phone": "Telepon",
+    "whatsapp": "WhatsApp",
+    "email": "Email",
+    "hours": "Jam Operasional",
+    "formTitle": "Kirim Pesan",
+    "formDesc": "Isi formulir di bawah ini dan tim kami akan menghubungi Anda dalam 1-2 hari kerja.",
+    "name": "Nama Lengkap",
+    "namePlaceholder": "Nama Anda",
+    "emailPlaceholder": "email@contoh.com",
+    "nameReq": "Nama Lengkap harus diisi",
+    "emailReq": "Email harus diisi",
+    "subject": "Subjek",
+    "subjectPlaceholder": "Tentang apa pesan Anda?",
+    "subjectReq": "Subjek harus diisi",
+    "message": "Pesan",
+    "messagePlaceholder": "Tulis pesan Anda di sini...",
+    "messageReq": "Pesan harus diisi",
+    "company": "Perusahaan / Institusi",
+    "companyPlaceholder": "Nama perusahaan atau institusi",
+    "phoneLabel": "Nomor Telepon",
+    "phonePlaceholder": "+62 xxx xxxx xxxx",
+    "send": "Kirim Pesan",
+    "sending": "Mengirim...",
+    "submitted": "Pesan Terkirim!",
+    "submittedDesc": "Terima kasih telah menghubungi kami. Tim kami akan segera merespons pesan Anda.",
+    "sendAgain": "Kirim Pesan Lagi",
+    "contactInfoDesc": "Anda juga dapat menghubungi kami langsung melalui informasi di bawah ini.",
+    "addressDetails": [
+      "JL Sambisari, Duwet, Sendangadi, Mlati",
+      "Kb. Arung, Tridadi, Sleman",
+      "Sleman Regency, D.I. Yogyakarta 55511"
+    ],
+    "operatingHours": [
+      "Senin - Jumat: 08.00 - 17.00 WIB",
+      "Sabtu: 08.00 - 12.00 WIB"
+    ],
+    "faq": "Pertanyaan Umum",
+    "faqDesc": "Beberapa pertanyaan yang sering diajukan tentang produk dan layanan kami.",
+    "q1": "Bagaimana cara memesan produk dari PT. Ontiyus Karya Mulia?",
+    "a1": "Anda dapat menghubungi tim penjualan kami melalui WhatsApp di nomor 081225716870, email ke ontiyuskaryamulia@gmail.com, atau telepon di (0274) 2887324. Tim kami akan membantu Anda dengan katalog produk dan proses pemesanan.",
+    "q2": "Apakah tersedia layanan purna jual dan garansi produk?",
+    "a2": "Ya, semua produk kami dilengkapi dengan garansi dan layanan purna jual. Detail garansi bervariasi tergantung jenis produk. Tim kami siap memberikan dukungan teknis yang diperlukan.",
+    "q3": "Apakah Ontiyus melayani pembuatan alat kesehatan kustom?",
+    "a3": "Ya, kami menyediakan layanan rekayasa dan pembuatan komponen medis kustom. Sebagai spin-off dari riset UGM, kami memiliki keahlian dalam pengembangan implan dan prostetik sesuai kebutuhan spesifik.",
+    "q4": "Wilayah mana saja yang dapat dijangkau oleh Ontiyus?",
+    "a4": "Kami melayani pengiriman ke seluruh Indonesia. Kantor dan workshop kami berlokasi di Sleman, Yogyakarta. Untuk wilayah di luar Jawa, kami bekerja sama dengan mitra logistik terpercaya."
+  },
+  "partners": {
+    "title": "Mitra & Sertifikasi",
+    "subtitle": "Dipercaya oleh berbagai rumah sakit dan fasilitas kesehatan",
+    "certifications": {
+      "iso13485": {
+        "name": "ISO 13485",
+        "description": "Sistem Manajemen Mutu Alat Kesehatan"
+      },
+      "kemenkes": {
+        "name": "KEMENKES RI",
+        "description": "Izin Edar Kementerian Kesehatan"
+      },
+      "sni": {
+        "name": "SNI",
+        "description": "Standar Nasional Indonesia"
+      }
+    }
+  },
+  "footer": {
+    "products": "Produk",
+    "company": "Perusahaan",
+    "solutions": "Solusi",
+    "about": "Tentang Kami",
+    "news": "Berita",
+    "contact": "Hubungi",
+    "copyright": "Semua hak dilindungi.",
+    "privacy": "Kebijakan Privasi",
+    "terms": "Syarat & Ketentuan",
+    "description": "PT. Ontiyus Karya Mulia adalah perusahaan manufaktur peralatan medis dan alat penelitian. Kami berkomitmen untuk menyediakan produk berkualitas guna mendukung layanan kesehatan dan pendidikan di Indonesia.",
+    "operatingHours": "Jam Operasional:",
+    "schedule": "Senin - Sabtu: 08.00 - 15.00 WIB"
+  },
+  "aboutPage": {
+    "hero": {
+      "title": "Tentang Kami",
+      "subtitle": "Tentang Kami",
+      "description": "PT. Ontiyus Karya Mulia adalah perusahaan spin-off riset UGM yang berfokus pada manufaktur dan distribusi implan tulang ortopedi dan prostesis. Kami hadir sejak 2020 untuk mendukung layanan kesehatan ortopedi di Indonesia."
+    },
+    "history": {
+      "title": "Sejarah Perusahaan",
+      "p1": "Ontiyus Karya Mulia adalah perusahaan berbentuk perseroan terbatas. Perusahaan ini didirikan pada tanggal 25 Februari 2020 di Yogyakarta berdasarkan Akta Notaris Erry Aryanto SH, M.Si.",
+      "p2": "Pendirian perusahaan ini telah disahkan berdasarkan Keputusan Menteri Hukum dan Hak Asasi Manusia Republik Indonesia No. C-45.HT.03.02. Tahun 2006.",
+      "p3": "Perusahaan ini memproduksi alat-alat kesehatan khususnya peralatan yang berkaitan dengan alat bantu untuk memperbaiki kerusakan tulang karena patah atau kerusakan karena suatu penyakit.",
+      "p4": "Perusahaan ini merupakan \"spin-off\" dari hasil penelitian yang dilakukan oleh beberapa peneliti di Fakultas Teknik dan Fakultas Kedokteran Universitas Gadjah Mada.",
+      "years": "Tahun Pengalaman"
+    },
+    "vision": {
+      "title": "Visi",
+      "subtitle": "Visi",
+      "content": "Menjadi mitra industri dalam memenuhi kebutuhan produk alat kesehatan dan inovasi dalam bidang manufaktur bagi masyarakat Indonesia."
+    },
+    "mission": {
+      "title": "Misi",
+      "subtitle": "Misi",
+      "item1": "Memenuhi kebutuhan alat-alat kesehatan dalam negeri yang berkualitas dan terjangkau.",
+      "item2": "Memenuhi tuntutan produksi produk-produk inovasi sesuai dengan kebutuhan masyarakat."
+    },
+    "values": {
+      "title": "Nilai Inti",
+      "subtitle": "Nilai Inti",
+      "quality": {
+        "title": "Kualitas",
+        "description": "Komitmen pada standar kualitas tinggi dalam setiap produk yang kami hasilkan."
+      },
+      "innovation": {
+        "title": "Inovasi",
+        "description": "Terus berinovasi untuk mengembangkan solusi kesehatan yang lebih baik."
+      },
+      "integrity": {
+        "title": "Integritas",
+        "description": "Menjalankan bisnis dengan kejujuran dan transparansi kepada semua pihak."
+      },
+      "care": {
+        "title": "Kepedulian",
+        "description": "Peduli terhadap kebutuhan masyarakat akan layanan kesehatan yang berkualitas."
+      }
+    },
+    "expertise": {
+      "title": "Keahlian Kami",
+      "subtitle": "Keahlian Kami",
+      "description": "Dengan tim yang berpengalaman dari UGM dan fasilitas produksi modern, kami memiliki keahlian dalam berbagai bidang pengembangan alat kesehatan."
+    },
+    "timeline": {
+      "title": "Perjalanan Kami",
+      "subtitle": "Perjalanan Kami",
+      "description": "Tonggak sejarah penting dalam perjalanan PT. Ontiyus Karya Mulia membangun industri alat kesehatan Indonesia."
+    },
+    "stats": {
+      "clients": "Klien & Mitra",
+      "provinces": "Provinsi Terjangkau",
+      "experience": "Tahun Berpengalaman"
+    },
+    "milestones": [
+      {
+        "year": "2020",
+        "title": "Pendirian Perusahaan",
+        "description": "PT. Ontiyus Karya Mulia didirikan pada tanggal 25 Februari 2020 di Yogyakarta berdasarkan Akta Notaris Erry Aryanto SH, M.Si."
+      },
+      {
+        "year": "2015",
+        "title": "Riset Awal di UGM",
+        "description": "Penelitian prostetik dan implan dimulai oleh tim CIMEDs di Fakultas Teknik dan Fakultas Kedokteran Universitas Gadjah Mada."
+      },
+      {
+        "year": "2018",
+        "title": "Bantuan Korban Gempa Palu",
+        "description": "Penyerahan 100 implan karya Dr. Suyitno dan grup riset CIMEDs untuk korban gempa Palu, Sulawesi Tengah."
+      },
+      {
+        "year": "2021",
+        "title": "Sertifikasi & Standarisasi",
+        "description": "Memperoleh sertifikasi standar nasional untuk produksi alat kesehatan dan memperkuat sistem quality control."
+      },
+      {
+        "year": "2022",
+        "title": "Ekspansi Lini Produk Prostesis",
+        "description": "Memperluas portofolio produk ke prostesis kaki dan tangan untuk memenuhi kebutuhan rehabilitasi masyarakat Indonesia."
+      },
+      {
+        "year": "2025",
+        "title": "Kemitraan Nasional",
+        "description": "Menjalin kemitraan dengan berbagai rumah sakit dan klinik di seluruh Indonesia untuk distribusi yang lebih luas."
+      }
+    ],
+    "expertiseItems": [
+      {
+        "title": "Implan Tulang Ortopedi",
+        "description": "Keahlian dalam merancang dan memproduksi implan tulang untuk perbaikan patah tulang."
+      },
+      {
+        "title": "Rekayasa Alat Kesehatan",
+        "description": "Tim teknik berpengalaman dari Fakultas Teknik UGM dalam pengembangan perangkat medis."
+      },
+      {
+        "title": "Riset Biomedis",
+        "description": "Kolaborasi dengan CIMEDs UGM untuk penelitian dan inovasi teknologi kesehatan."
+      },
+      {
+        "title": "Kolaborasi Akademis",
+        "description": "Kemitraan dengan Universitas Gadjah Mada untuk riset dan pengembangan."
+      }
+    ]
+  },
+  "productsPage": {
+    "hero": {
+      "title": "Katalog Produk",
+      "subtitle": "Product Catalog",
+      "description": "Jelajahi rangkaian lengkap produk implan tulang ortopedi, prostesis, dan peralatan medis dari PT. Ontiyus Karya Mulia."
+    },
+    "categories": {
+      "implants": "Implan Tulang Ortopedi",
+      "implantsSubtitle": "Orthopedic Bone Implants",
+      "implantsDesc": "Implan tulang berkualitas tinggi untuk perbaikan patah tulang dan kerusakan tulang akibat penyakit. Dikembangkan berdasarkan riset dari Fakultas Teknik dan Kedokteran UGM.",
+      "prosthetics": "Alat Prostetik & Ortotik",
+      "prostheticsSubtitle": "Prosthetic & Orthotic Devices",
+      "prostheticsDesc": "Prostesis kaki dan tangan berkualitas tinggi untuk membantu mobilitas pasien. Dikembangkan dengan teknologi terkini dan material yang nyaman.",
+      "hospital": "Peralatan Rumah Sakit",
+      "hospitalSubtitle": "Hospital Equipment",
+      "hospitalDesc": "Peralatan medis untuk rumah sakit mulai dari tempat tidur pasien, alat diagnostik, hingga furniture medis lainnya.",
+      "lab": "Peralatan Laboratorium",
+      "labSubtitle": "Laboratory Equipment",
+      "labDesc": "Instrumen laboratorium presisi untuk analisis sampel, pengujian, dan berbagai prosedur laboratorium.",
+      "customSolutions": "Solusi Custom",
+      "customSolutionsSubtitle": "Custom Solutions",
+      "customSolutionsDesc": "Kami menyediakan layanan engineering dan manufaktur komponen medis custom sesuai kebutuhan spesifik Anda."
+    },
+    "tags": {
+      "hospital": "Rumah Sakit",
+      "orthopedic": "Ortopedi",
+      "prosthetic": "Prostetik",
+      "rehab": "Rehabilitasi",
+      "custom": "Kustom"
+    },
+    "products": {
+      "implants": [
+        {
+          "name": "Dynamic Compression Plate 4mm Narrow",
+          "description": "Plat kompresi dinamis ukuran 4mm narrow untuk fiksasi tulang."
+        },
+        {
+          "name": "Dynamic Compression Plate 5mm Narrow",
+          "description": "Plat kompresi dinamis ukuran 5mm narrow untuk fiksasi tulang."
+        },
+        {
+          "name": "Dynamic Compression Plate 5mm Broad",
+          "description": "Plat kompresi dinamis ukuran 5mm broad untuk tulang besar."
+        },
+        {
+          "name": "Dynamic Compression Plate 2mm Small",
+          "description": "Plat kompresi dinamis ukuran 2mm untuk tulang kecil."
+        },
+        {
+          "name": "Simple Plate 4mm",
+          "description": "Plat sederhana ukuran 4mm untuk fiksasi tulang."
+        },
+        {
+          "name": "Simple Plate 5mm",
+          "description": "Plat sederhana ukuran 5mm untuk fiksasi tulang."
+        },
+        {
+          "name": "L Buttress Plate 3mm Left",
+          "description": "Plat buttress bentuk L ukuran 3mm untuk sisi kiri."
+        },
+        {
+          "name": "L Buttress Plate 3mm Right",
+          "description": "Plat buttress bentuk L ukuran 3mm untuk sisi kanan."
+        },
+        {
+          "name": "T Plate 3mm",
+          "description": "Plat berbentuk T ukuran 3mm untuk fiksasi tulang."
+        },
+        {
+          "name": "Distal Tibia Plate 3mm",
+          "description": "Plat untuk fiksasi tulang tibia distal ukuran 3mm."
+        },
+        {
+          "name": "Reconstruction Plate 3mm",
+          "description": "Plat rekonstruksi ukuran 3mm untuk perbaikan tulang kompleks."
+        }
+      ],
+      "prosthetics": [
+        {
+          "name": "Kaki Prostetik Below-Knee",
+          "description": "Kaki prostetik ringan dan nyaman untuk amputasi di bawah lutut."
+        },
+        {
+          "name": "Kaki Prostetik Above-Knee",
+          "description": "Solusi prostetik untuk amputasi di atas lutut dengan sistem pengunci aman."
+        },
+        {
+          "name": "Prostetik Kaki Custom",
+          "description": "Prostetik kaki yang dapat disesuaikan dengan kebutuhan pasien."
+        },
+        {
+          "name": "Prostetik Kaki Standard",
+          "description": "Prostetik kaki standar dengan kualitas tinggi dan harga terjangkau."
+        }
+      ]
+    }
+  },
+  "solutionsPage": {
+    "hero": {
+      "title": "Solusi Kami",
+      "subtitle": "Solusi Kami",
+      "description": "Solusi komprehensif untuk berbagai kebutuhan layanan kesehatan, dari rumah sakit hingga institusi pendidikan."
+    },
+    "hospital": {
+      "title": "Rumah Sakit",
+      "subtitle": "Solusi Rumah Sakit",
+      "description": "Solusi lengkap untuk rumah sakit dari peralatan diagnostik hingga furnitur medis yang memenuhi standar internasional.",
+      "longDescription": "PT. Ontiyus Karya Mulia menyediakan solusi komprehensif untuk rumah sakit di seluruh Indonesia. Kami memahami kebutuhan kompleks rumah sakit modern yang memerlukan peralatan berkualitas tinggi, andal, dan efisien untuk mendukung berbagai departemen mulai dari IGD, ICU, ruang operasi, hingga rawat inap.",
+      "benefit1Title": "Perangkat Diagnostik Lengkap",
+      "benefit1Desc": "Monitor pasien, EKG, USG, dan peralatan diagnostik modern untuk diagnosis akurat.",
+      "benefit2Title": "Furnitur Rumah Sakit",
+      "benefit2Desc": "Tempat tidur elektrik, meja operasi, brankar, dan furnitur medis berkualitas.",
+      "benefit3Title": "Alat Prostetik & Ortotik",
+      "benefit3Desc": "Solusi prostetik untuk pasien yang membutuhkan rehabilitasi mobilitas.",
+      "benefit4Title": "Dukungan Teknis",
+      "benefit4Desc": "Tim teknis kami siap memberikan pelatihan dan dukungan purna jual."
+    },
+    "clinic": {
+      "title": "Klinik & Praktik Medis",
+      "subtitle": "Solusi Klinik & Praktik Medis",
+      "description": "Solusi efisien untuk klinik dan praktik medis dengan ruang terbatas namun tetap membutuhkan peralatan berkualitas.",
+      "longDescription": "Klinik dan praktik medis memerlukan solusi yang ringkas namun berkualitas tinggi. PT. Ontiyus Karya Mulia menyediakan peralatan medis yang dirancang khusus untuk ruang terbatas dengan fungsi maksimal.",
+      "benefit1Title": "Peralatan Diagnostik Ringkas",
+      "benefit1Desc": "Alat pemeriksaan dan diagnostik yang hemat ruang namun tetap akurat.",
+      "benefit2Title": "Furniture Medis Efisien",
+      "benefit2Desc": "Tempat tidur pemeriksaan, kursi medis, dan furnitur yang hemat space.",
+      "benefit3Title": "Harga Terjangkau",
+      "benefit3Desc": "Solusi ekonomis tanpa mengorbankan kualitas untuk praktik medis kecil.",
+      "benefit4Title": "Instalasi Mudah",
+      "benefit4Desc": "Peralatan dirancang untuk instalasi cepat dan mudah."
+    },
+    "education": {
+      "title": "Institusi Pendidikan & Riset",
+      "subtitle": "Institusi Pendidikan & Riset",
+      "description": "Peralatan untuk pendidikan kedokteran, laboratorium riset, dan program pelatihan medis.",
+      "longDescription": "Institusi pendidikan dan riset memerlukan peralatan yang tidak hanya berkualitas tetapi juga mendukung proses pembelajaran dan penelitian. Kami menyediakan solusi khusus untuk universitas, sekolah kedokteran, dan pusat riset.",
+      "benefit1Title": "Peralatan Laboratorium",
+      "benefit1Desc": "Instrumen presisi untuk praktikum dan penelitian mahasiswa kedokteran.",
+      "benefit2Title": "Model Anatomi & Simulasi",
+      "benefit2Desc": "Alat peraga dan simulator untuk pembelajaran medis yang efektif.",
+      "benefit3Title": "Dukungan Riset",
+      "benefit3Desc": "Kolaborasi riset dan pengembangan produk inovatif bersama akademisi.",
+      "benefit4Title": "Program Pelatihan",
+      "benefit4Desc": "Workshop dan pelatihan penggunaan alat medis untuk mahasiswa dan dosen."
+    },
+    "rehabilitation": {
+      "title": "Pusat Rehabilitasi",
+      "subtitle": "Pusat Rehabilitasi",
+      "description": "Prostesis dan alat bantu mobilitas untuk pusat rehabilitasi dan terapi fisik.",
+      "longDescription": "Pusat rehabilitasi memerlukan prostesis dan alat bantu yang mendukung pemulihan pasien. PT. Ontiyus Karya Mulia menyediakan prostesis berkualitas tinggi yang nyaman dan mendukung proses rehabilitasi.",
+      "benefit1Title": "Prostesis Kaki",
+      "benefit1Desc": "Prostesis kaki berkualitas untuk membantu pasien kembali berjalan.",
+      "benefit2Title": "Prostesis Tangan",
+      "benefit2Desc": "Prostesis tangan fungsional untuk aktivitas sehari-hari.",
+      "benefit3Title": "Custom Fitting",
+      "benefit3Desc": "Layanan pengukuran dan penyesuaian prostesis sesuai anatomi pasien.",
+      "benefit4Title": "Konsultasi & Pelatihan",
+      "benefit4Desc": "Bantuan terapis dalam penggunaan prostesis dan latihan rehabilitasi."
+    }
+  },
+  "newsPage": {
+    "hero": {
+      "title": "Berita & Kegiatan",
+      "subtitle": "Berita & Kegiatan",
+      "description": "Informasi terbaru seputar kegiatan, pencapaian, dan perkembangan PT. Ontiyus Karya Mulia dalam mendukung industri alat kesehatan Indonesia."
+    },
+    "readMore": "Baca selengkapnya",
+    "backToNews": "Kembali ke Berita",
+    "backToAllNews": "Kembali ke Berita & Kegiatan",
+    "articles": [
+      {
+        "title": "UGM Beri Bantuan Implan Tulang untuk Korban Gempa Palu",
+        "excerpt": "Penyerahan 100 implan karya Dr. Suyitno dan grup riset CIMEDs untuk korban gempa Palu, Sulawesi Tengah.",
+        "category": "Kegiatan",
+        "date": "11 Desember 2021"
+      },
+      {
+        "title": "UGM Rintis Implan Sendi Lutut Ukuran Orang Indonesia",
+        "excerpt": "Penelitian untuk memperoleh ukuran dan bentuk sendi lutut dan sendi panggul saat ini tengah berlangsung di Rumah Sakit UGM.",
+        "category": "Riset",
+        "date": "12 Desember 2021"
+      },
+      {
+        "title": "Pameran Inovasi & Inovator Expo Kemenristekdikti",
+        "excerpt": "Menteri Riset Teknologi dan Pendidikan Tinggi (Menristekdikti) mendatangani kesepahaman Indonesia Innovations & Innovators Expo (i3E) 2015.",
+        "category": "Kegiatan",
+        "date": "11 Desember 2021"
+      },
+      {
+        "title": "Kerjasama dengan UGM untuk Pengembangan Prostetik Generasi Baru",
+        "excerpt": "PT. Ontiyus Karya Mulia menandatangani MoU dengan Universitas Gadjah Mada untuk pengembangan teknologi prostetik yang lebih inovatif.",
+        "category": "Kemitraan",
+        "date": "15 Desember 2025"
+      },
+      {
+        "title": "Ontiyus Raih Sertifikasi ISO 13485 untuk Sistem Manajemen Mutu",
+        "excerpt": "Pencapaian penting dalam komitmen kualitas produksi alat kesehatan sesuai standar internasional.",
+        "category": "Pencapaian",
+        "date": "28 Oktober 2025"
+      }
+    ]
+  },
+  "booksPage": {
+    "hero": {
+      "title": "Publikasi & Buku",
+      "subtitle": "Publications & Books",
+      "description": "Koleksi buku penelitian teknik dan medis yang ditulis oleh para ahli di bidangnya. Buku-buku ini mencakup topik material teknik, biomaterial, dan engineering untuk mendukung pendidikan dan riset."
+    },
+    "orderInfo": "Pesan Buku",
+    "viewDetails": "Lihat Detail",
+    "aboutPublications": "Tentang Publikasi Kami",
+    "aboutDesc1": "Buku-buku kami ditulis oleh para ahli di bidang material engineering dengan pengalaman puluhan tahun dalam penelitian dan pengembangan. Setiap publikasi mencakup teori mendalam dan aplikasi praktis yang relevan dengan industri medis dan manufaktur.",
+    "aboutDesc2": "Publikasi ini merupakan hasil kolaborasi antara PT. Ontiyus Karya Mulia dengan Universitas Gadjah Mada, khususnya Fakultas Teknik dan tim riset CIMEDs. Semua buku tersedia melalui penerbit resmi dan dapat dipesan langsung melalui website kami.",
+    "backToPublications": "Kembali ke Publikasi",
+    "aboutBook": "Tentang Buku",
+    "specifications": "Spesifikasi",
+    "relatedBooks": "Buku Terkait",
+    "orderNow": "Pesan Sekarang",
+    "by": "Oleh:",
+    "priceLabel": "Harga",
+    "yearPublished": "Tahun Terbit",
+    "availability": "Tersedia",
+    "pages": "Halaman",
+    "isbn": "ISBN",
+    "publisher": "Penerbit",
+    "numberOfPages": "Jumlah Halaman",
+    "size": "Ukuran",
+    "bulkOrderHelp": "Hubungi kami untuk informasi pemesanan dalam jumlah besar atau hard copy langsung"
+  },
+  "cta": {
+    "needMoreInfo": "Butuh Informasi Lebih Lanjut?",
+    "needMoreInfoDesc": "Tim kami siap membantu Anda menemukan solusi peralatan medis yang tepat untuk kebutuhan fasilitas kesehatan Anda.",
+    "contactSales": "Hubungi Tim Penjualan",
+    "consultYourNeeds": "Konsultasikan Kebutuhan Fasilitas Anda",
+    "consultYourNeedsDesc": "Tim ahli kami siap membantu Anda menemukan solusi peralatan medis yang tepat sesuai dengan kebutuhan dan anggaran fasilitas kesehatan Anda.",
+    "contactNow": "Hubungi Kami Sekarang",
+    "relatedProducts": "Produk Terkait:"
+  }
+}

@@ -1,0 +1,531 @@
+{
+  "nav": {
+    "home": "Home",
+    "products": "Products",
+    "solutions": "Solutions",
+    "about": "About Us",
+    "books": "Books & Publications",
+    "news": "News",
+    "contact": "Contact Us"
+  },
+  "hero": {
+    "title": "Trusted Medical Equipment Manufacturer in Indonesia",
+    "description": "PT. Ontiyus Karya Mulia produces and supplies reliable medical devices for hospitals, clinics, and laboratories throughout Indonesia.",
+    "viewProducts": "View Products",
+    "contactUs": "Contact Us",
+    "tagline": "Supporting safe and quality health services"
+  },
+  "products": {
+    "title": "Our Products",
+    "subtitle": "Quality medical equipment for your needs",
+    "implants": {
+      "title": "Orthopedic Bone Implants",
+      "description": "High-quality bone implants for fixing fractures and bone damage due to disease. Developed based on research from the Faculty of Engineering and Medicine UGM.",
+      "details": "View details"
+    },
+    "prosthetics": {
+      "title": "Prosthetic & Orthotic Devices",
+      "description": "High-quality prosthetic and orthotic solutions to help patient mobility and quality of life. Developed with the latest technology and comfortable materials.",
+      "details": "View details"
+    }
+  },
+  "about": {
+    "title": "About PT. Ontiyus Karya Mulia",
+    "subtitle": "Trusted Medical Equipment Manufacturer",
+    "description": "PT. Ontiyus Karya Mulia is a leading medical equipment manufacturing and distribution company in Indonesia with over 15 years of experience in the medical industry.",
+    "mission": "We are committed to providing high-quality medical equipment that meets international standards and Indonesian health regulations.",
+    "commitment": "With an experienced team and a wide distribution network, we are ready to support healthcare facilities throughout Indonesia in providing the best service to the community.",
+    "why": "Why Choose Us?",
+    "highlights": [
+      "Certified medical devices",
+      "Trusted by hospitals throughout Indonesia",
+      "Professional 24/7 technical support",
+      "Best warranty and after-sales service",
+      "Compliance with health regulations"
+    ]
+  },
+  "solutions": {
+    "title": "Solutions for Every Need",
+    "subtitle": "Our products are used in various health service environments",
+    "hospital": "Hospital",
+    "hospitalDesc": "We provide complete solutions for hospitals, from operating room equipment, ICU, to inpatient furniture. Our products are designed to support operational efficiency and patient comfort.",
+    "clinic": "Clinic",
+    "clinicDesc": "For clinics and medical practices, we offer diagnostic equipment, examination tools, and medical furniture that are compact yet high-quality for limited spaces.",
+    "laboratory": "Laboratory",
+    "labDesc": "Clinical and research laboratories can rely on our precision instruments for sample analysis, testing, and various laboratory procedures with accurate and consistent results."
+  },
+  "news": {
+    "title": "News & Updates",
+    "subtitle": "Latest information from PT. Ontiyus Karya Mulia",
+    "viewAll": "View All News",
+    "readMore": "Read more"
+  },
+  "books": {
+    "title": "Publications & Books",
+    "subtitle": "Collection of engineering and medical research books from experts",
+    "viewAll": "View All Publications",
+    "author": "By:",
+    "isbn": "ISBN:",
+    "price": "Price:",
+    "publisher": "Publisher:",
+    "pages": "Pages:",
+    "year": "Year:",
+    "availability": "Available",
+    "items": [
+      {
+        "id": "1",
+        "title": "Engineering Materials for Engineers (Ferrous Metals)",
+        "description": "Comprehensive book on ferrous metal materials for engineering applications. Covers structure, mechanical properties, and practical applications in manufacturing and healthcare industries."
+      },
+      {
+        "id": "2",
+        "title": "Engineering Materials for Engineers (Non-Ferrous Metals)",
+        "description": "Complete guide on non-ferrous metal materials including aluminum, copper, and their alloys. Ideal for engineering students and industry professionals."
+      },
+      {
+        "id": "3",
+        "title": "Engineering Materials for Engineers (Polymers, Ceramics, Wood and Composites)",
+        "description": "In-depth exploration of non-metallic materials including polymers, ceramics, wood and modern composite materials. Applications in medical industry and research."
+      }
+    ]
+  },
+  "gallery": {
+    "title": "Gallery & Portfolio",
+    "subtitle": "See our production facilities, products, and collaborations"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Contact Us",
+    "description": "We are ready to help you. Please contact us for questions about products, partnerships, technical support, or other information about PT. Ontiyus Karya Mulia services.",
+    "sendMessage": "Send Message",
+    "contactInfo": "Contact Information",
+    "address": "Address",
+    "phone": "Phone",
+    "whatsapp": "WhatsApp",
+    "email": "Email",
+    "hours": "Operating Hours",
+    "formTitle": "Send Message",
+    "formDesc": "Fill in the form below and our team will contact you within 1-2 business days.",
+    "name": "Full Name",
+    "namePlaceholder": "Your Name",
+    "emailPlaceholder": "email@example.com",
+    "nameReq": "Full Name is required",
+    "emailReq": "Email is required",
+    "subject": "Subject",
+    "subjectPlaceholder": "What is your message about?",
+    "subjectReq": "Subject is required",
+    "message": "Message",
+    "messagePlaceholder": "Write your message here...",
+    "messageReq": "Message is required",
+    "company": "Company / Institution",
+    "companyPlaceholder": "Company or institution name",
+    "phoneLabel": "Phone Number",
+    "phonePlaceholder": "+62 xxx xxxx xxxx",
+    "send": "Send Message",
+    "sending": "Sending...",
+    "submitted": "Message Sent!",
+    "submittedDesc": "Thank you for contacting us. Our team will respond to your message soon.",
+    "sendAgain": "Send Another Message",
+    "contactInfoDesc": "You can also contact us directly through the information below.",
+    "addressDetails": [
+      "JL Sambisari, Duwet, Sendangadi, Mlati",
+      "Kb. Arung, Tridadi, Sleman",
+      "Sleman Regency, D.I. Yogyakarta 55511"
+    ],
+    "operatingHours": [
+      "Monday - Friday: 08.00 - 17.00 WIB",
+      "Saturday: 08.00 - 12.00 WIB"
+    ],
+    "faq": "Frequently Asked Questions",
+    "faqDesc": "Some frequently asked questions about our products and services.",
+    "q1": "How do I order products from PT. Ontiyus Karya Mulia?",
+    "a1": "You can contact our sales team via WhatsApp at 081225716870, email to ontiyuskaryamulia@gmail.com, or call (0274) 2887324. Our team will help you with product catalogs and ordering process.",
+    "q2": "Is after-sales service and product warranty available?",
+    "a2": "Yes, all our products come with warranty and after-sales service. Warranty details vary depending on product type. Our team is ready to provide the technical support needed.",
+    "q3": "Does Ontiyus provide custom medical device manufacturing?",
+    "a3": "Yes, we provide engineering services and custom medical component manufacturing. As a spin-off from UGM research, we have expertise in developing implants and prosthetics according to specific needs.",
+    "q4": "Which regions can Ontiyus reach?",
+    "a4": "We serve delivery throughout Indonesia. Our office and workshop are located in Sleman, Yogyakarta. For areas outside Java, we work with trusted logistics partners."
+  },
+  "partners": {
+    "title": "Partners & Certifications",
+    "subtitle": "Trusted by various hospitals and health facilities",
+    "certifications": {
+      "iso13485": {
+        "name": "ISO 13485",
+        "description": "Medical Device Quality Management System"
+      },
+      "kemenkes": {
+        "name": "MINISTRY OF HEALTH RI",
+        "description": "Distribution Permit from Ministry of Health"
+      },
+      "sni": {
+        "name": "SNI",
+        "description": "Indonesian National Standard"
+      }
+    }
+  },
+  "footer": {
+    "products": "Products",
+    "company": "Company",
+    "solutions": "Solutions",
+    "about": "About Us",
+    "news": "News",
+    "contact": "Contact",
+    "copyright": "All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms & Conditions",
+    "description": "PT. Ontiyus Karya Mulia is a medical equipment manufacturing and research tools company. We are committed to providing quality products to support healthcare and education services in Indonesia.",
+    "operatingHours": "Operating Hours:",
+    "schedule": "Monday - Saturday: 08.00 - 15.00 WIB"
+  },
+  "aboutPage": {
+    "hero": {
+      "title": "About Us",
+      "subtitle": "About Us",
+      "description": "PT. Ontiyus Karya Mulia is a spin-off research company from UGM that focuses on manufacturing and distributing orthopedic bone implants and prostheses. We have been serving since 2020 to support orthopedic healthcare services in Indonesia."
+    },
+    "history": {
+      "title": "Company History",
+      "p1": "Ontiyus Karya Mulia is a limited liability company. The company was established on February 25, 2020 in Yogyakarta based on the Notary Deed of Erry Aryanto SH, M.Si.",
+      "p2": "The establishment of this company has been ratified based on the Decree of the Minister of Law and Human Rights of the Republic of Indonesia No. C-45.HT.03.02. Year 2006.",
+      "p3": "This company produces medical devices, especially equipment related to assistive devices to repair bone damage due to fractures or damage due to a disease.",
+      "p4": "This company is a \"spin-off\" from research conducted by several researchers at the Faculty of Engineering and Faculty of Medicine, Gadjah Mada University.",
+      "years": "Years of Experience"
+    },
+    "vision": {
+      "title": "Vision",
+      "subtitle": "Vision",
+      "content": "To become an industrial partner in meeting the needs of medical device products and innovation in the field of manufacturing for the Indonesian people."
+    },
+    "mission": {
+      "title": "Mission",
+      "subtitle": "Mission",
+      "item1": "Meet the needs for quality and affordable domestic medical devices.",
+      "item2": "Meet the demands for production of innovative products according to community needs."
+    },
+    "values": {
+      "title": "Core Values",
+      "subtitle": "Core Values",
+      "quality": {
+        "title": "Quality",
+        "description": "Commitment to high quality standards in every product we produce."
+      },
+      "innovation": {
+        "title": "Innovation",
+        "description": "Continuously innovate to develop better healthcare solutions."
+      },
+      "integrity": {
+        "title": "Integrity",
+        "description": "Conducting business with honesty and transparency to all parties."
+      },
+      "care": {
+        "title": "Care",
+        "description": "Caring about the community's need for quality healthcare services."
+      }
+    },
+    "expertise": {
+      "title": "Our Expertise",
+      "subtitle": "Our Expertise",
+      "description": "With an experienced team from UGM and modern production facilities, we have expertise in various fields of medical device development."
+    },
+    "timeline": {
+      "title": "Our Journey",
+      "subtitle": "Our Journey",
+      "description": "Important milestones in the journey of PT. Ontiyus Karya Mulia building the Indonesian medical equipment industry."
+    },
+    "stats": {
+      "clients": "Clients & Partners",
+      "provinces": "Provinces Covered",
+      "experience": "Years of Experience"
+    },
+    "milestones": [
+      {
+        "year": "2020",
+        "title": "Company Establishment",
+        "description": "PT. Ontiyus Karya Mulia was established on February 25, 2020 in Yogyakarta based on Notary Deed of Erry Aryanto SH, M.Si."
+      },
+      {
+        "year": "2015",
+        "title": "Early Research at UGM",
+        "description": "Prosthetic and implant research initiated by CIMEDs team at Faculty of Engineering and Faculty of Medicine, Gadjah Mada University."
+      },
+      {
+        "year": "2018",
+        "title": "Palu Earthquake Relief",
+        "description": "Donation of 100 implants created by Dr. Suyitno and CIMEDs research group for Palu earthquake victims, Central Sulawesi."
+      },
+      {
+        "year": "2021",
+        "title": "Certification & Standardization",
+        "description": "Obtained national standard certification for medical device production and strengthened quality control system."
+      },
+      {
+        "year": "2022",
+        "title": "Prosthesis Product Line Expansion",
+        "description": "Expanded product portfolio to leg and hand prostheses to meet rehabilitation needs of Indonesian society."
+      },
+      {
+        "year": "2025",
+        "title": "National Partnership",
+        "description": "Established partnerships with various hospitals and clinics throughout Indonesia for wider distribution."
+      }
+    ],
+    "expertiseItems": [
+      {
+        "title": "Orthopedic Bone Implants",
+        "description": "Expertise in designing and manufacturing bone implants for fracture repair."
+      },
+      {
+        "title": "Medical Device Engineering",
+        "description": "Experienced engineering team from UGM Faculty of Engineering in medical device development."
+      },
+      {
+        "title": "Biomedical Research",
+        "description": "Collaboration with CIMEDs UGM for research and innovation in health technology."
+      },
+      {
+        "title": "Academic Collaboration",
+        "description": "Partnership with Gadjah Mada University for research and development."
+      }
+    ]
+  },
+  "productsPage": {
+    "hero": {
+      "title": "Product Catalog",
+      "subtitle": "Product Catalog",
+      "description": "Explore the complete range of orthopedic bone implants, prostheses, and medical equipment from PT. Ontiyus Karya Mulia."
+    },
+    "categories": {
+      "implants": "Orthopedic Bone Implants",
+      "implantsSubtitle": "Orthopedic Bone Implants",
+      "implantsDesc": "High-quality bone implants for repairing fractures and bone damage due to disease. Developed based on research from the Faculty of Engineering and Medicine UGM.",
+      "prosthetics": "Prosthetic & Orthotic Devices",
+      "prostheticsSubtitle": "Prosthetic & Orthotic Devices",
+      "prostheticsDesc": "High-quality leg and hand prostheses to help patient mobility. Developed with the latest technology and comfortable materials.",
+      "hospital": "Hospital Equipment",
+      "hospitalSubtitle": "Hospital Equipment",
+      "hospitalDesc": "Medical equipment for hospitals ranging from patient beds, diagnostic tools, to other medical furniture.",
+      "lab": "Laboratory Equipment",
+      "labSubtitle": "Laboratory Equipment",
+      "labDesc": "Precision laboratory instruments for sample analysis, testing, and various laboratory procedures.",
+      "customSolutions": "Custom Solutions",
+      "customSolutionsSubtitle": "Custom Solutions",
+      "customSolutionsDesc": "We provide engineering services and custom medical component manufacturing according to your specific needs."
+    },
+    "tags": {
+      "hospital": "Hospital",
+      "orthopedic": "Orthopedic",
+      "prosthetic": "Prosthetic",
+      "rehab": "Rehabilitation",
+      "custom": "Custom"
+    },
+    "products": {
+      "implants": [
+        {
+          "name": "Dynamic Compression Plate 4mm Narrow",
+          "description": "Dynamic compression plate 4mm narrow for bone fixation."
+        },
+        {
+          "name": "Dynamic Compression Plate 5mm Narrow",
+          "description": "Dynamic compression plate 5mm narrow for bone fixation."
+        },
+        {
+          "name": "Dynamic Compression Plate 5mm Broad",
+          "description": "Dynamic compression plate 5mm broad for large bones."
+        },
+        {
+          "name": "Dynamic Compression Plate 2mm Small",
+          "description": "Dynamic compression plate 2mm for small bones."
+        },
+        {
+          "name": "Simple Plate 4mm",
+          "description": "Simple plate 4mm for bone fixation."
+        },
+        {
+          "name": "Simple Plate 5mm",
+          "description": "Simple plate 5mm for bone fixation."
+        },
+        {
+          "name": "L Buttress Plate 3mm Left",
+          "description": "L-shaped buttress plate 3mm for left side."
+        },
+        {
+          "name": "L Buttress Plate 3mm Right",
+          "description": "L-shaped buttress plate 3mm for right side."
+        },
+        {
+          "name": "T Plate 3mm",
+          "description": "T-shaped plate 3mm for bone fixation."
+        },
+        {
+          "name": "Distal Tibia Plate 3mm",
+          "description": "Plate for distal tibia fixation 3mm."
+        },
+        {
+          "name": "Reconstruction Plate 3mm",
+          "description": "Reconstruction plate 3mm for complex bone repair."
+        }
+      ],
+      "prosthetics": [
+        {
+          "name": "Below-Knee Prosthetic Leg",
+          "description": "Lightweight and comfortable prosthetic leg for below-knee amputation."
+        },
+        {
+          "name": "Above-Knee Prosthetic Leg",
+          "description": "Prosthetic solution for above-knee amputation with safe locking system."
+        },
+        {
+          "name": "Custom Prosthetic Leg",
+          "description": "Custom prosthetic leg that can be adjusted to patient needs."
+        },
+        {
+          "name": "Standard Prosthetic Leg",
+          "description": "Standard prosthetic leg with high quality and affordable price."
+        }
+      ]
+    }
+  },
+  "solutionsPage": {
+    "hero": {
+      "title": "Our Solutions",
+      "subtitle": "Our Solutions",
+      "description": "Comprehensive solutions for various healthcare needs, from hospitals to educational institutions."
+    },
+    "hospital": {
+      "title": "Hospital",
+      "subtitle": "Hospital Solutions",
+      "description": "Complete solutions for hospitals from diagnostic equipment to medical furniture that meets international standards.",
+      "longDescription": "PT. Ontiyus Karya Mulia provides comprehensive solutions for hospitals throughout Indonesia. We understand the complex needs of modern hospitals that require high-quality, reliable, and efficient equipment to support various departments from emergency rooms, ICU, operating rooms, to inpatient care.",
+      "benefit1Title": "Complete Diagnostic Devices",
+      "benefit1Desc": "Patient monitors, ECG, ultrasound, and modern diagnostic equipment for accurate diagnosis.",
+      "benefit2Title": "Hospital Furniture",
+      "benefit2Desc": "Electric beds, operating tables, stretchers, and quality medical furniture.",
+      "benefit3Title": "Prosthetic & Orthotic Devices",
+      "benefit3Desc": "Prosthetic solutions for patients requiring mobility rehabilitation.",
+      "benefit4Title": "Technical Support",
+      "benefit4Desc": "Our technical team is ready to provide training and after-sales support."
+    },
+    "clinic": {
+      "title": "Clinic & Medical Practice",
+      "subtitle": "Clinic & Medical Practice",
+      "description": "Efficient solutions for clinics and medical practices with limited space but still requiring quality equipment.",
+      "longDescription": "Clinics and medical practices require compact yet high-quality solutions. PT. Ontiyus Karya Mulia provides medical equipment specially designed for limited spaces with maximum functionality.",
+      "benefit1Title": "Compact Diagnostic Equipment",
+      "benefit1Desc": "Examination and diagnostic tools that save space but remain accurate.",
+      "benefit2Title": "Efficient Medical Furniture",
+      "benefit2Desc": "Examination beds, medical chairs, and space-saving furniture.",
+      "benefit3Title": "Affordable Prices",
+      "benefit3Desc": "Economical solutions without sacrificing quality for small medical practices.",
+      "benefit4Title": "Easy Installation",
+      "benefit4Desc": "Equipment designed for quick and easy installation."
+    },
+    "education": {
+      "title": "Education & Research Institutions",
+      "subtitle": "Education & Research Institutions",
+      "description": "Equipment for medical education, research laboratories, and medical training programs.",
+      "longDescription": "Educational and research institutions require equipment that is not only quality but also supports the learning and research process. We provide special solutions for universities, medical schools, and research centers.",
+      "benefit1Title": "Laboratory Equipment",
+      "benefit1Desc": "Precision instruments for practicum and medical student research.",
+      "benefit2Title": "Anatomical Models & Simulation",
+      "benefit2Desc": "Teaching aids and simulators for effective medical learning.",
+      "benefit3Title": "Research Support",
+      "benefit3Desc": "Research collaboration and development of innovative products with academics.",
+      "benefit4Title": "Training Programs",
+      "benefit4Desc": "Workshops and training on the use of medical devices for students and lecturers."
+    },
+    "rehabilitation": {
+      "title": "Rehabilitation Centers",
+      "subtitle": "Rehabilitation Centers",
+      "description": "Prostheses and mobility aids for rehabilitation centers and physical therapy.",
+      "longDescription": "Rehabilitation centers require prostheses and assistive devices that support patient recovery. PT. Ontiyus Karya Mulia provides high-quality prostheses that are comfortable and support the rehabilitation process.",
+      "benefit1Title": "Leg Prostheses",
+      "benefit1Desc": "Quality leg prostheses to help patients walk again.",
+      "benefit2Title": "Hand Prostheses",
+      "benefit2Desc": "Functional hand prostheses for daily activities.",
+      "benefit3Title": "Custom Fitting",
+      "benefit3Desc": "Measurement and adjustment services for prostheses according to patient anatomy.",
+      "benefit4Title": "Consultation & Training",
+      "benefit4Desc": "Therapist assistance in using prostheses and rehabilitation exercises."
+    }
+  },
+  "newsPage": {
+    "hero": {
+      "title": "News & Activities",
+      "subtitle": "News & Activities",
+      "description": "Latest information about activities, achievements, and developments of PT. Ontiyus Karya Mulia in supporting the Indonesian medical equipment industry."
+    },
+    "readMore": "Read more",
+    "backToNews": "Back to News",
+    "backToAllNews": "Back to News & Activities",
+    "articles": [
+      {
+        "title": "UGM Provides Bone Implants for Palu Earthquake Victims",
+        "excerpt": "Donation of 100 implants created by Dr. Suyitno and CIMEDs research group for Palu earthquake victims, Central Sulawesi.",
+        "category": "Activities",
+        "date": "December 11, 2021"
+      },
+      {
+        "title": "UGM Pioneering Knee Joint Implants Sized for Indonesians",
+        "excerpt": "Research to obtain the size and shape of knee and hip joints is currently underway at UGM Hospital.",
+        "category": "Research",
+        "date": "December 12, 2021"
+      },
+      {
+        "title": "Innovation & Innovator Expo by Ministry of Research, Technology and Higher Education",
+        "excerpt": "Minister of Research, Technology and Higher Education (Menristekdikti) signed a memorandum of understanding for Indonesia Innovations & Innovators Expo (i3E) 2015.",
+        "category": "Activities",
+        "date": "December 11, 2021"
+      },
+      {
+        "title": "Collaboration with UGM for Development of Next Generation Prosthetics",
+        "excerpt": "PT. Ontiyus Karya Mulia signed MoU with Gadjah Mada University for development of more innovative prosthetic technology.",
+        "category": "Partnership",
+        "date": "December 15, 2025"
+      },
+      {
+        "title": "Ontiyus Obtains ISO 13485 Certification for Quality Management System",
+        "excerpt": "Important achievement in commitment to quality production of medical devices according to international standards.",
+        "category": "Achievement",
+        "date": "October 28, 2025"
+      }
+    ]
+  },
+  "booksPage": {
+    "hero": {
+      "title": "Publications & Books",
+      "subtitle": "Publications & Books",
+      "description": "Collection of engineering and medical research books written by experts in their fields. These books cover topics in engineering materials, biomaterials, and engineering to support education and research."
+    },
+    "orderInfo": "Order Book",
+    "viewDetails": "View Details",
+    "aboutPublications": "About Our Publications",
+    "aboutDesc1": "Our books are written by experts in the field of material engineering with decades of experience in research and development. Each publication includes in-depth theory and practical applications relevant to the medical and manufacturing industries.",
+    "aboutDesc2": "These publications are the result of collaboration between PT. Ontiyus Karya Mulia and Gadjah Mada University, particularly the Faculty of Engineering and the CIMEDs research team. All books are available through official publishers and can be ordered directly through our website.",
+    "backToPublications": "Back to Publications",
+    "aboutBook": "About This Book",
+    "specifications": "Specifications",
+    "relatedBooks": "Related Books",
+    "orderNow": "Order Now",
+    "by": "By:",
+    "priceLabel": "Price",
+    "yearPublished": "Year Published",
+    "availability": "Available",
+    "pages": "Pages",
+    "isbn": "ISBN",
+    "publisher": "Publisher",
+    "numberOfPages": "Number of Pages",
+    "size": "Size",
+    "bulkOrderHelp": "Contact us for information on bulk orders or direct hard copy purchases"
+  },
+  "cta": {
+    "needMoreInfo": "Need More Information?",
+    "needMoreInfoDesc": "Our team is ready to help you find the right medical equipment solution for your healthcare facility needs.",
+    "contactSales": "Contact Sales Team",
+    "consultYourNeeds": "Consult Your Facility Needs",
+    "consultYourNeedsDesc": "Our expert team is ready to help you find the right medical equipment solution according to your healthcare facility's needs and budget.",
+    "contactNow": "Contact Us Now",
+    "relatedProducts": "Related Products:"
+  }
+}
