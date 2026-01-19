@@ -13,13 +13,43 @@ import { useLanguage } from "@/lib/language-context"
 export function ContactSection() {
   const { t } = useLanguage()
   const [isSubmitting, setIsSubmitting] = useState(false)
+  const [error, setError] = useState<string | null>(null)
 
-  const handleSubmit = async (e: React.FormEvent) => {
+  const handleSubmit = async (e: React.FormEvent<HTMLFormElement>) => {
     e.preventDefault()
+    setError(null)
     setIsSubmitting(true)
-    // Simulate form submission
-    await new Promise((resolve) => setTimeout(resolve, 1000))
-    setIsSubmitting(false)
+
+    const form = e.currentTarget
+    const formData = new FormData(form)
+
+    const payload = {
+      name: String(formData.get("name") || ""),
+      email: String(formData.get("email") || ""),
+      company: String(formData.get("company") || ""),
+      subject: String(formData.get("subject") || ""),
+      message: String(formData.get("message") || ""),
+      phone: "",
+    }
+
+    try {
+      const res = await fetch("/api/contact", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify(payload),
+      })
+
+      if (!res.ok) {
+        const data = await res.json().catch(() => null)
+        throw new Error(data?.error || "Failed to send message")
+      }
+
+      form.reset()
+    } catch (err) {
+      setError(err instanceof Error ? err.message : "Failed to send message")
+    } finally {
+      setIsSubmitting(false)
+    }
   }
 
   return (
@@ -90,25 +120,26 @@ export function ContactSection() {
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
                 <div className="space-y-2">
                   <Label htmlFor="name">{t("contact.name")}</Label>
-                  <Input id="name" placeholder={t("contact.name")} required />
+                  <Input id="name" name="name" placeholder={t("contact.name")} required />
                 </div>
                 <div className="space-y-2">
                   <Label htmlFor="email">Email</Label>
-                  <Input id="email" type="email" placeholder="email@example.com" required />
+                  <Input id="email" name="email" type="email" placeholder="email@example.com" required />
                 </div>
               </div>
               <div className="space-y-2">
                 <Label htmlFor="company">{t("contact.company")}</Label>
-                <Input id="company" placeholder={t("contact.company")} />
+                <Input id="company" name="company" placeholder={t("contact.company")} />
               </div>
               <div className="space-y-2">
                 <Label htmlFor="subject">{t("contact.subject")}</Label>
-                <Input id="subject" placeholder={t("contact.subject")} required />
+                <Input id="subject" name="subject" placeholder={t("contact.subject")} required />
               </div>
               <div className="space-y-2">
                 <Label htmlFor="message">{t("contact.message")}</Label>
-                <Textarea id="message" placeholder={t("contact.message")} rows={4} required />
+                <Textarea id="message" name="message" placeholder={t("contact.message")} rows={4} required />
               </div>
+              {error && <p className="text-sm text-destructive">{error}</p>}
               <Button
                 type="submit"
                 className="w-full bg-accent hover:bg-accent/90 text-accent-foreground"

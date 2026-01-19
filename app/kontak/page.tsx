@@ -16,6 +16,7 @@ export default function ContactPage() {
   const { t } = useLanguage()
   const [isSubmitted, setIsSubmitted] = useState(false)
   const [isLoading, setIsLoading] = useState(false)
+  const [error, setError] = useState<string | null>(null)
 
   const contactInfo = [
     {
@@ -50,13 +51,40 @@ export default function ContactPage() {
 
   const handleSubmit = async (e: React.FormEvent<HTMLFormElement>) => {
     e.preventDefault()
+    setError(null)
     setIsLoading(true)
 
-    // Simulate form submission
-    await new Promise((resolve) => setTimeout(resolve, 1500))
+    const form = e.currentTarget
+    const formData = new FormData(form)
 
-    setIsLoading(false)
-    setIsSubmitted(true)
+    const payload = {
+      name: String(formData.get("name") || ""),
+      email: String(formData.get("email") || ""),
+      company: String(formData.get("company") || ""),
+      phone: String(formData.get("phone") || ""),
+      subject: String(formData.get("subject") || ""),
+      message: String(formData.get("message") || ""),
+    }
+
+    try {
+      const res = await fetch("/api/contact", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify(payload),
+      })
+
+      if (!res.ok) {
+        const data = await res.json().catch(() => null)
+        throw new Error(data?.error || "Failed to send message")
+      }
+
+      setIsSubmitted(true)
+      form.reset()
+    } catch (err) {
+      setError(err instanceof Error ? err.message : "Failed to send message")
+    } finally {
+      setIsLoading(false)
+    }
   }
 
   return (
@@ -170,6 +198,8 @@ export default function ContactPage() {
                       className="bg-card resize-none"
                     />
                   </div>
+
+                  {error && <p className="text-sm text-destructive">{error}</p>}
 
                   <Button
                     type="submit"
