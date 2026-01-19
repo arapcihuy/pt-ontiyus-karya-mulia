@@ -58,7 +58,34 @@
     "title": "News & Updates",
     "subtitle": "Latest information from PT. Ontiyus Karya Mulia",
     "viewAll": "View All News",
-    "readMore": "Read more"
+    "readMore": "Read more",
+    "items": [
+      {
+        "id": "ugm-bantuan-implan-korban-gempa-palu",
+        "title": "UGM Develops Bone Plates Sized for Indonesians",
+        "excerpt": "Bone fixation plates tailored to Indonesian anatomy to improve reconstruction outcomes and healing quality."
+      },
+      {
+        "id": "ugm-rintis-implan-sendi-lutut",
+        "title": "UGM Pioneers Knee Joint Implants Sized for Indonesians",
+        "excerpt": "CT-based knee and hip measurements at RS UGM guide prosthesis design that matches Indonesian morphometry."
+      },
+      {
+        "id": "pameran-inovasi-inovator-expo-kemenristekdikti",
+        "title": "Innovation & Innovators Expo by Kemenristekdikti",
+        "excerpt": "i3E 2015 agreement to accelerate research downstreaming and technology adoption for villages and remote areas."
+      },
+      {
+        "id": "kerjasama-ugm-pengembangan-prostetik",
+        "title": "CIMEDs UGM Donates Implants for Palu Quake Victims",
+        "excerpt": "CIMEDs FT UGM team delivers 100 bone-fixation implants to support treatment of earthquake and tsunami patients in Palu and Donggala."
+      },
+      {
+        "id": "sertifikasi-iso-13485",
+        "title": "Ontiyus Achieves ISO 13485 Certification",
+        "excerpt": "ISO 13485:2016 certifies international-quality standards from design to distribution of medical devices."
+      }
+    ]
   },
   "books": {
     "title": "Publications & Books",

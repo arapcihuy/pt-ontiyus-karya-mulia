@@ -58,7 +58,34 @@
     "title": "Berita & Update",
     "subtitle": "Informasi terkini dari PT. Ontiyus Karya Mulia",
     "viewAll": "Lihat Semua Berita",
-    "readMore": "Baca selengkapnya"
+    "readMore": "Baca selengkapnya",
+    "items": [
+      {
+        "id": "ugm-bantuan-implan-korban-gempa-palu",
+        "title": "UGM Kembangkan Plat Penyambung Tulang Patah Ukuran Orang Indonesia",
+        "excerpt": "Plat penyambung tulang disesuaikan dengan dimensi tulang orang Indonesia untuk hasil rekonstruksi dan penyembuhan yang lebih baik."
+      },
+      {
+        "id": "ugm-rintis-implan-sendi-lutut",
+        "title": "UGM Rintis Implan Sendi Lutut Ukuran Orang Indonesia",
+        "excerpt": "Penelitian ukuran sendi lutut dan panggul menggunakan CT Scan RS UGM sebagai acuan desain prostesis sesuai morfometri Indonesia."
+      },
+      {
+        "id": "pameran-inovasi-inovator-expo-kemenristekdikti",
+        "title": "Pameran Inovasi & Inovator Expo Kemenristekdikti",
+        "excerpt": "Kesepahaman i3E 2015 untuk hilirisasi riset dan teknologi, mendukung pembangunan desa dan daerah tertinggal."
+      },
+      {
+        "id": "kerjasama-ugm-pengembangan-prostetik",
+        "title": "CIMEDs UGM Sumbang Implan untuk Korban Gempa Tsunami Palu",
+        "excerpt": "Tim CIMEDs FT UGM menyerahkan 100 implan penyambung tulang untuk korban gempa dan tsunami di Palu dan Donggala."
+      },
+      {
+        "id": "sertifikasi-iso-13485",
+        "title": "Ontiyus Raih Sertifikasi ISO 13485",
+        "excerpt": "Sertifikasi ISO 13485:2016 menegaskan komitmen mutu internasional untuk desain hingga distribusi alat kesehatan."
+      }
+    ]
   },
   "books": {
     "title": "Publikasi & Buku",
